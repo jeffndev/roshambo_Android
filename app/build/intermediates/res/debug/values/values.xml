@@ -164,6 +164,7 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Roshambo</string>
     <string name="hello_world">Hello world!</string>
+    <string name="status_text_tie">It\'s a Tie!</string>
     <!-- From: file:/C:/Users/jnewel200/AndroidStudioProjects/roshambo_Android/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
