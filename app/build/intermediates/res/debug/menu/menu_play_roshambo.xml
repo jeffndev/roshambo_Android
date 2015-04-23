@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/Users/jeffreynewell1/git_home/Roshambo/app/src/main/res/menu/menu_play_roshambo.xml -->
+<!-- From: file:/C:/Users/jnewel200/AndroidStudioProjects/roshambo_Android/app/src/main/res/menu/menu_play_roshambo.xml -->

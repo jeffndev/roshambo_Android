@@ -24,10 +24,11 @@
         </activity>
         <activity
             android:name="com.jeffndev.roshambo.RoshamboResultActivity"
-            android:label="Results" >
+            android:label="Results"
+            android:parentActivityName="com.jeffndev.roshambo.PlayRoshamboActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".PlayRoshamboActivity" />
+                android:value="com.jeffndev.roshambo.PlayRoshamboActivity" />
         </activity>
     </application>
 

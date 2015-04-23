@@ -12,9 +12,10 @@ public class RoshamboResultActivity extends ActionBarActivity {
     public static final int ROCK = 1;
     public static final int PAPER = 2;
     public static final int SCISSORS = 3;
+
     @Override
-    public void onCreate(Bundle savedInstanceState, PersistableBundle persistentState) {
-        super.onCreate(savedInstanceState, persistentState);
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_roshambo_result);
         if(savedInstanceState == null){
             int rps = getIntent().getIntExtra(RPS_CHOICE_KEY, ROCK);
