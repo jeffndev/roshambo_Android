@@ -29,17 +29,9 @@ public class RoshamboResultFragment extends Fragment{
         View rootView = inflater.inflate(R.layout.fragment_roshambo_result,container,false);
         ImageView imgStatus = (ImageView)rootView.findViewById(R.id.frag_result_status_imageview);
         TextView txtStatus = (TextView)rootView.findViewById(R.id.frag_result_status_textview);
-        Button btnPlayAgain = (Button)rootView.findViewById(R.id.frag_result_playagain_button);
 
         imgStatus.setImageResource(R.drawable.rock_crushes_scissors); //TODO: has to depend on choices..
         txtStatus.setText("Rock crushes scissors, I win!");//TODO: put these strings as format strings in the string resources..
-
-        btnPlayAgain.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                getActivity().finish();
-            }
-        });
 
         return rootView;
     }

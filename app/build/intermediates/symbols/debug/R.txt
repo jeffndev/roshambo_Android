@@ -353,7 +353,7 @@ int id action_menu_presenter 0x7f090003
 int id action_mode_bar 0x7f09002e
 int id action_mode_bar_stub 0x7f09002d
 int id action_mode_close_button 0x7f090020
-int id action_settings 0x7f090048
+int id action_settings 0x7f090047
 int id activity_chooser_view_content 0x7f090021
 int id activity_play_roshambo 0x7f09003f
 int id activity_roshambo_result 0x7f090040
@@ -373,7 +373,6 @@ int id expanded_menu 0x7f090028
 int id frag_play_roshambo_paper_button 0x7f090043
 int id frag_play_roshambo_rock_button 0x7f090042
 int id frag_play_roshambo_scissors_button 0x7f090044
-int id frag_result_playagain_button 0x7f090047
 int id frag_result_status_imageview 0x7f090045
 int id frag_result_status_textview 0x7f090046
 int id fragment_play_roshambo 0x7f090041

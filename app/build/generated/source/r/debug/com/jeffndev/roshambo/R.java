@@ -1321,7 +1321,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f090048;
+        public static final int action_settings=0x7f090047;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int activity_play_roshambo=0x7f09003f;
         public static final int activity_roshambo_result=0x7f090040;
@@ -1341,7 +1341,6 @@ containing a value of this type.
         public static final int frag_play_roshambo_paper_button=0x7f090043;
         public static final int frag_play_roshambo_rock_button=0x7f090042;
         public static final int frag_play_roshambo_scissors_button=0x7f090044;
-        public static final int frag_result_playagain_button=0x7f090047;
         public static final int frag_result_status_imageview=0x7f090045;
         public static final int frag_result_status_textview=0x7f090046;
         public static final int fragment_play_roshambo=0x7f090041;
